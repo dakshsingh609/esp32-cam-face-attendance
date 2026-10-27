@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+attendance.csv
+logs/
+captures/
+known_faces/
+*.log
+esp32/wifi_config.h
+esp32/esp32_cam_attendance/wifi_config.h
+esp32_ip.txt

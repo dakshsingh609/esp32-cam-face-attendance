@@ -1,0 +1,4 @@
+192.168.1.100
+
+# Copy this file to esp32_ip.txt and replace with YOUR ESP32 IP from Arduino Serial Monitor.
+# Example: if Serial shows http://192.168.1.45/stream then put only: 192.168.1.45
